@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Olaniyan</h1>
-<h3 align="center">Web dev and Python enjoyer</h3>
+<h3 align="center">Web Dev & Python Enjoyer</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
