@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [davidolaniyan.pages.dev](davidolaniyan.pages.dev)
+- 👨‍💻 All of my projects are available at <a href="https://davidolaniyan.pages.dev" target="_blank">davidolaniyan.pages.dev</a>
 
 - 📫 How to reach me **davideniola108@gmail.com**
 
